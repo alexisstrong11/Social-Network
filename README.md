@@ -2,36 +2,34 @@
 
 ## **Description**
 
-This SVG logo generator project allowed me to use my knowledge of JavaScript, NodeJS and inquirer to allow users to create custom logos. They are able to input three characters, pick a base color, text color and shape. 
-
+This social media project allowed me to use my knowledge of Node,js, MongoDB, Express.js, and Mongoose to create an API for a social network application. It allows users to post rections, thoughts and create their own friend list to convenienly connect with others.
 
 ## **Table of Contents**
 - [Installation](#installation)
 - [Usage](#usage)
 - [Preview](#preview)
-- [Tests](#tests)
 - [License](#license)
 
 
 ## **Installation**
-Users must first install nodejs and inquirer. Then clone the repository, https://github.com/alexisstrong11/Logo-Maker, and run npm install.  Jest is also required to install. 
+Users must first clone the repository, https://github.com/alexisstrong11/Social-Network, then run install the necessary dependencies by running: npm init -y, npm i sequelize, npm i express, npm i mongoose, npm i nodemon and npm i sequelize. 
+
 - - - -
 ## **Usage**
-Run node index.js to propmt the logo generator questions. Once you have finished answering all the questions, the image will be saved as logo.svg. 
+Run npm start to begin runnung the server on port 3001. Then open insomnia to prompt the empty database where you can then contribute or delete thoughts/posts and add or remove specific users/friends. 
 - - - -
 ## **Preview**
 
 Video recording of the running application:
 
-
 - - - -
 Example screenshot:
+
 - - - -
 ## **Credits**
 NOTE: *I received help from ChatGPT and my former classmate*
-- - - -
-## **Tests**
-To run the tests, enter the command (npx jest) in the terminal. 
+I also used received code assistance from ChatGPT and a youtube tutorial. 
+
 - - - -
 ## **License**
 MIT License
