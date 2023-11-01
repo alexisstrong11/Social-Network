@@ -19,12 +19,7 @@ Users must first clone the repository, https://github.com/alexisstrong11/Social-
 Run npm start to begin runnung the server on port 3001. Then open insomnia to prompt the empty database where you can then contribute or delete thoughts/posts and add or remove specific users/friends. 
 - - - -
 ## **Preview**
-
-Video recording of the running application:
-
-- - - -
-Example screenshot:
-
+I had issues running the server on port 3001 and could not record the solution. 
 - - - -
 ## **Credits**
 NOTE: *I received help from ChatGPT and my former classmate*
